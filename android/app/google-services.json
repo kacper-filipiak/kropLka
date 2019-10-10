@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "662052621773",
+    "firebase_url": "https://bard-test-1.firebaseio.com",
+    "project_id": "bard-test-1",
+    "storage_bucket": "bard-test-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:662052621773:android:5675192a2e946b152b4884",
+        "android_client_info": {
+          "package_name": "com.filiplike.bard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "662052621773-dlhp9bajiqmf9eljm6u0a01b31lfk45h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6kyd_YeoAWxVGIcXNgAt7inuUanYy_O0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "662052621773-dlhp9bajiqmf9eljm6u0a01b31lfk45h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
