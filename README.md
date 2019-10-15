@@ -1,6 +1,6 @@
 # bard
 
-A new Flutter application.
+App "kropelka" is stored in "kropelka.zip" file.
 
 ## Getting Started
 
